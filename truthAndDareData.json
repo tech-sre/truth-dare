@@ -1,0 +1,3155 @@
+{
+  "truth": [
+    {
+      "text": "What is your favorite movie?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your biggest fear?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is your dream vacation?",
+      "gender": "female",
+      "label": 3
+    },
+    {
+      "text": "If you could have any superpower, what would it be?",
+      "gender": "male",
+      "label": 4
+    },
+    {
+      "text": "What is your favorite movie?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite book?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Who is your favorite musician or band?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of cuisine?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite TV show?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite hobby or pastime?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite sports team?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of music?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Who is your favorite actor or actress?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite food?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite season of the year?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite holiday?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite animal?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite color?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite board game?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite video game?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of dessert?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite childhood memory?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of weather?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite way to relax or unwind?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of exercise or physical activity?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of flower?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of coffee or tea?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of car?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of hairstyle?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite social media platform?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of technology or gadget?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of dance?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of art or artistic expression?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of jewelry or accessory?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of weather?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of shoe?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of movie genre?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of TV show genre?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of music genre?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of cuisine?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of cocktail or drink?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of sport or athletic activity?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of workout or exercise?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of outdoor activity?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of indoor activity?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of social event or gathering?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your favorite type of party theme?",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "What is your biggest fear?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is your most embarrassing moment?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is your secret guilty pleasure?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever had a crush on a teacher or authority figure?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most adventurous thing you've ever done?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is your biggest regret?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing thing you've ever said or done in front of a crush?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is your biggest pet peeve?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever lied to a friend to spare their feelings?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing nickname you've ever had?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever cheated on a test or exam?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing thing you've ever worn?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever pretended to like a gift when you didn't?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is your most embarrassing bathroom moment?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever stolen something?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is your most embarrassing social media post or comment?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever eavesdropped on a conversation?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing text message you've sent or received?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever told a secret you promised to keep?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing thing you've done for money?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever pretended to be sick to skip school or work?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is your most embarrassing romantic rejection?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever had a wardrobe malfunction in public?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing song or artist on your playlist?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever accidentally sent a text to the wrong person?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing thing your parents have caught you doing?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever been caught picking your nose?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing nickname you've given someone else?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever had food stuck in your teeth without realizing it?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is your most embarrassing public speaking moment?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever had a wardrobe malfunction while on a date?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing thing you've ever posted on social media?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever had a crush on a fictional character?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is your most embarrassing childhood memory?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever laughed at something inappropriate?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing thing you've done while under the influence of alcohol?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever sent a text to the wrong person that was meant for someone else?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is your most embarrassing moment in a public restroom?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever had a wardrobe malfunction at a special event?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing thing you've said or done in front of a crowd?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever laughed at something inappropriate during a serious moment?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing thing you've done to impress someone?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever been caught gossiping about someone?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing thing you've done while trying to be cool?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever had a wardrobe malfunction while exercising or playing sports?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "What is the most embarrassing thing you've said or done on a date?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever tripped or fallen in a public place?",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Have you ever had a one-night stand? Tell us about it",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your ultimate sexual fantasy?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a threesome? If not, would you be open to it?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is the most adventurous place you've had sex?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever engaged in a BDSM or role-playing scenario? Tell us about it",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever sent or received explicit photos or videos? Explain",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of lingerie or underwear?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a friends-with-benefits arrangement? How did it go?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite sexual position and why?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had sex in a public place? If so, where?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is the most unusual or unconventional sexual experience you've had?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a secret affair or cheated on a partner?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your go-to technique for pleasuring yourself?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a same-sex experience? If not, would you be open to it?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of foreplay?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever used sex toys? If so, which ones?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is the longest you've gone without sex?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had sex with someone significantly older or younger than you? How was the experience?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your biggest turn-on or sexual fetish?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual encounter with someone you met online? Share the details",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on open relationships?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a threesome or group sex experience? How did it happen?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of role play? Have you ever acted it out?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a same-sex crush or attraction?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is the most spontaneous or unplanned sexual encounter you've had?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a romantic or sexual encounter with a coworker?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on friends with benefits arrangements?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual fantasy that you were afraid to share with a partner? What was it?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is the most memorable pick-up line someone has used on you?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a one-night stand that turned into something more? Explain",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of dirty talk?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever used food during a sexual encounter? If so, what did you use?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is the most unusual place you've masturbated?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual experience with someone of a different race or culture? How was it?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on sex on the first date?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever been caught engaging in a sexual act?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of erotic literature or porn?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual encounter with someone you met at a party or club? Share the details",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on casual sex?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a romantic or sexual encounter with a friend's ex-partner?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is the most adventurous sexual act you've engaged in?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a spontaneous threesome or group sex encounter?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on pornography?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever experimented with BDSM or domination/submission play? Explain",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is the most public place you've been caught fooling around?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual encounter with someone you met through social media? Share the details",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on sex in public places?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual encounter with someone who was already in a committed relationship?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of kissing?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever engaged in a long-distance or virtual sexual encounter? Explain",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on friends becoming romantically or sexually involved?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual encounter with someone you initially disliked or didn't find attractive? Share the details",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of erotic or sexual role play?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual encounter in a vehicle? If so, what kind?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on open displays of affection in public?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever engaged in sexual activity while others were in the same room? Explain",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of orgasm or sexual sensation?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a romantic or sexual encounter with a stranger while traveling? Share the details",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on sexual experimentation within a committed relationship?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual encounter with someone you met at a wedding or special event? How did it happen?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of role play scenario involving authority (e",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual experience that involved handcuffs, blindfolds, or restraints? Explain",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on polyamorous relationships?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual encounter in a place of worship or religious setting? Share the details",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of sexual fantasy or scenario involving multiple partners?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual encounter with someone you met through a dating app? How did it go?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on engaging in sexual acts on a first date?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a romantic or sexual encounter with a celebrity (real or fantasy)? Explain",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of sensual or erotic massage?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual experience in a public restroom? Share the details",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on engaging in sexual activity with a friend's ex-partner after a reasonable amount of time has passed?",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual encounter with someone who was significantly older or younger than you? Explain",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your favorite type of sexual role play involving power dynamics (e",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "Have you ever had a sexual experience while watching or being watched by others? Explain",
+      "gender": "",
+      "label": 3
+  },
+  {
+      "text": "What is your opinion on engaging in sexual acts with strangers (eg one night)",
+      "gender": "",
+      "label": 3
+  },
+  {
+    "text": "Have you ever accidentally sent a sext to the wrong person?",
+    "gender": "",
+    "label": 4
+},
+{
+    "text": "How do you feel about shower sex? Love it, hate it, or super neutral?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What's the sexiest song you've ever heard? What about it turns you on?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What's the most amount of times you've orgasmed in a day?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "If we opened up our relationship, who would be the first person you’d want to have sex with?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Who would be in your dream orgy?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What do you remember most about the first time you ever had sex?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Who is the weirdest person you’ve had a sex dream about?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "If you could have sex with one person from your past again, who would it be?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Would you ever want to watch me have sex with someone else?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What’s one sex toy you want me to try on you?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What’s a fantasy you’ve never told me about?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What memory from our sex life turns you on the most?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What would be your dream role-play scenario?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "If you could hook up with one of my friends, who would it be?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What do you think I’m best at in bed?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Have you ever gotten turned on at work (or while WFH)? What did you do about it?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Have you ever hooked up with a stranger or had a one-night stand?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Do you prefer using your tongue or fingers on me? Which do you like me to use on you?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "How do you feel about swinging or partner swapping? Does the idea turn you on?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What's something I do that isn't sexual but turns you on?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Would you ever want to go to a sex club with me?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Where is the strangest place you’ve ever masturbated?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What’s #1 on your sexual bucket list right now?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Have you ever been caught having sex?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Have you ever accidentally walked in on anyone getting it on?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Do you ever watch porn? Tell me what type you usually gravitate toward",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What’s the kinkiest thought you’ve ever had about me?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What’s a sex act most people like that you think is overrated?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What sexual activity (or activities) do you think is underrated?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Have you ever fantasized about a teacher or authority figure? Who was it and why?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Do you know the last name of everyone you’ve had sex with? What about first?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What is your favorite body part for me to suck on?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Would you prefer to dominate me in bed or do you want me to dominate you in bed?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Do you like being nibbled on or lightly bitten? Where?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What's your favorite sex toy to use on me?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What's the kinkiest thing you've ever done?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What’s the hottest sex dream you’ve ever had?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Tell me one thing I could do that would make you immediately orgasm",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Which is your favorite kind of sex: soft, slow, and sweet or aggressive, fast, and feisty?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "If I gave you a free pass to hook up with one celebrity, who would it be and why?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What item of clothing do you think I look sexiest in?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Describe my in-bed personality in three words",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "If I were handcuffed to the bed, what would you do to me?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "If you were to create an original sex move, what would you call it?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What's something dirty you've always been too shy to say to me in bed?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "If we could only have sex in one position for a month, what position would you pick?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Is there something you've seen in a steamy movie that you'd like to try?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What sex move of mine is your favorite? Give me all the dirty details about why you like it",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What kind of foreplay would you like to try the next time we are in bed?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Where do you think our most romantic kiss took place? Tell me everything you remember about it",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "When I am on top of you, what's your favorite part of me to watch?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "How often do you masturbate? How often is it about me?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "If you could go back and change anything about the first time we had sex, what would it be and why?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What’s your favorite text I’ve sent you when we’ve been sexting?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What is your least favorite sex position and why?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "How do you feel about threesomes? Have you ever had one, and if not, would you ever have one?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What do you think the sexiest part of my body is?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What do you think the sexiest part of your body is?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "Have you ever fantasized about anything sexual with someone of your same sex?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What’s the wildest place you’ve ever had sex?",
+    "gender": "",
+    "label": 4
+},
+
+{
+    "text": "What were you thinking when you first saw me naked?",
+    "gender": "",
+    "label": 4
+}
+  ],
+  "dare": [
+    {
+      "text": "Sing a song in front of everyone.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "in front of everyone.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Sing a song",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a silly dance for one minute.",
+      "gender": "female",
+      "label": 2
+    },
+    {
+      "text": "Perform a magic trick.",
+      "gender": "",
+      "label": 4
+    },
+    {
+      "text": "Sing a song in a funny voice.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a silly dance for 30 seconds.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Tell a joke and make everyone laugh.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Act like a chicken for one minute.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a handstand against a wall for 10 seconds.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Draw a picture blindfolded.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Balance a spoon on your nose for 10 seconds.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do 10 jumping jacks.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Tell a funny story from your childhood.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Wear your clothes backward for the next hour.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do your best animal impression.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Recite the alphabet backward as fast as you can.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a cartwheel.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Make up a funny rap about a random object.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do 10 push-ups.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Tell a funny knock-knock joke.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Act out a famous movie scene.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Speak in a silly voice for the next two rounds.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a funny dance in front of everyone.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Tell a funny pun.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Try to lick your elbow (even if it's impossible).",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Draw a self-portrait with your non-dominant hand.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a hand puppet show with improvised characters.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Sing a nursery rhyme in a funny voice.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Act like a robot for the next three rounds.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a silly walk across the room.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Tell a funny story about your pet (real or imaginary).",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do an impression of a famous cartoon character.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Recite a tongue twister three times without making a mistake.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a forward roll on the floor.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Make up a silly dance move and teach it to everyone.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Tell a funny story about a family vacation.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do an impression of a famous singer.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Speak in slow motion for the next two rounds.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do the chicken dance.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Tell a funny story about a school experience.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Act like a monkey for one minute.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a silly impression of a family member.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Recite a silly poem or rhyme about a random object.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a somersault.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Make up a funny story about a famous person.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Act like a robot for one minute.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Tell a funny story about a family holiday tradition.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a funny impression of a teacher or boss.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Tell a funny story about a childhood mishap.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do the floss dance.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Tell a funny story about a pet or animal encounter.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do a silly dance move for 30 seconds.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Tell a funny story about a memorable family meal.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Act like a zombie for one minute.",
+      "gender": "",
+      "label": 1
+    },
+    {
+      "text": "Do an impression of a famous celebrity.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a silly dance in public.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Sing a song in a funny voice.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear your clothes inside out for the next hour.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a cartwheel in a public place.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Speak in a British accent for the next five minutes.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Tell a joke to a stranger.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Dance like nobody's watching for 30 seconds.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear your socks on your hands for the next round.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Talk to a random object as if it were a person.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a silly hat in public for the next hour.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Strike a pose and ask someone to take a picture of you.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Make a funny face and hold it for 10 seconds.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Sing a nursery rhyme in a loud voice.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Tell a funny story to a stranger.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a chicken dance in public.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Ask a stranger for their autograph.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Make a silly face and take a selfie.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear your clothes backward for the next hour.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Dance like a robot in a crowded place.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Sing a song in a public restroom.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a funny walk down the street.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Start a conversation with a stranger using a silly voice.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Make a funny face and ask a stranger to take a picture with you.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear mismatched shoes in public for the next hour.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Tell a joke to a cashier or server.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a silly dance in a grocery store aisle.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Speak in a funny accent for the next round.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Sing a song loudly while walking down the street.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a handstand against a wall in a public place.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Talk to a statue or sculpture as if it were alive.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Make a funny face and ask a stranger to take a video of you.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a mask or hat and pretend to be a different person in public.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a silly walk in a crowded area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Start a conversation with a stranger using a made-up language.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Make a funny face and take a photo with a stranger.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear your clothes inside out for the rest of the day.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Dance like nobody's watching in a public park.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Speak in a high-pitched voice for the next round.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Sing a song loudly in a shopping mall.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a handstand in a park or outdoor area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Talk to a street performer as if they were your long-lost friend.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Make a funny face and take a selfie with a stranger.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a silly costume or outfit in public for the next hour.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a silly dance in a crowded area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Start a conversation with a stranger using a fake accent.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Make a funny face and ask a stranger to take a group photo with you.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a silly impression of a famous person.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Sing a song using only animal sounds.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear your clothes inside out and walk around a busy area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Speak in a foreign accent for the next 10 minutes.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a silly dance in a public transportation vehicle (bus, train, etc.).",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Tell a joke to a stranger and make them laugh.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Dance like nobody's watching in the middle of a busy street.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a funny hat or wig and strike a pose for a picture with a stranger.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a handstand or a cartwheel in a park or public space.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Talk to a random object as if it can respond to you.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear your shoes on the wrong feet for the next hour.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Make funny faces at strangers and see if they join in.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Sing a popular song out loud while walking through a crowded area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do the Macarena or another popular dance in a public square.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a cape or a superhero costume and strike a pose in a public place.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Perform an impromptu comedy skit for strangers on the street.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a pair of funny sunglasses and strike a pose for a photo with a stranger.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a hand puppet show in a park or public area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Try to make a stranger laugh using your best stand-up comedy routine.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a funny t-shirt with a silly phrase or image and walk around a crowded area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Sing a popular song in a different language and see if people can guess the song.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a funny walk or run with exaggerated movements in a public place.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Start a conversation with a stranger using a made-up language and see their reaction.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a funny mask and pretend to be a character from a movie or TV show in a public area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a silly dance routine with a group of friends in a public park.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Speak in a high-pitched voice and ask strangers for directions.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Sing a funny song about a random person you see in a public place.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a funny wig or hat and pretend to be a character from a fairy tale in a crowded area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a series of silly jumps or hops while walking down a busy street.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Start a group sing-along with strangers in a public space.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a funny costume or disguise and try to make people guess who you are in a crowded area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a funny impression of a famous politician or public figure in a public place.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Sing a popular song while doing silly dance moves in a shopping mall.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a big pair of sunglasses and pretend to be a famous celebrity in a crowded area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a series of funny facial expressions and ask strangers to rate them.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a funny hat or headgear and start a conga line with strangers in a public space.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a silly dance routine with a group of friends in the middle of a busy street.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Speak in a fake accent and ask strangers for directions to a fictional place.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Sing a well-known song in a public park and invite strangers to join in.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Wear a funny mask and pretend to be a character from a popular movie or TV show while walking through a shopping center.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Do a silly walk or dance routine with a group of friends in a crowded area.",
+      "gender": "",
+      "label": 2
+    },
+    {
+      "text": "Give a lap dance to another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Kiss someone of the same gender for 10 seconds",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Take a body shot off another player's body",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Serenade a random person in public",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a passionate kiss to another player for 30 seconds",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Do a sexy dance on a table or elevated surface",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Have a make-out session with someone you've never kissed before",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Exchange an article of clothing with another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Go up to a stranger and ask for a kiss on the cheek",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a neck massage to another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Dance provocatively with a random person of the opposite gender",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Whisper a dirty message in someone's ear in a public setting",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Have a make-out session in a photo booth",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a seductive strip tease to another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Write a naughty message on a random person's body part (with their consent)",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a sensual dance with another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Initiate a three-way hug with two other players",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Play a game of 'spin the bottle' with a twist (kisses on the lips)",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Send a seductive text message to someone in your contact list",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Use your imagination to create and act out a seductive role-play scenario",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone in front of a crowd",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a sensual lap dance for another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Go commando (without underwear) for the remainder of the game",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a back massage to another player without using your hands",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Kiss someone passionately in the rain (if weather permits)",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Seductively feed a piece of fruit to another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Do a body shot off another player's stomach",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sexy dance performance with props (e",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Make out with a random person at a club or party",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone while blindfolded",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a strip tease to your favorite song in front of the group",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Go to a public place and engage in a passionate kiss with a stranger (with their consent)",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Write a sensual love letter and read it aloud to another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual massage to another player using massage oil",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone in an elevator",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Play 'Seven Minutes in Heaven' with another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a sensual belly dance for another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a seductive foot massage to another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Make out with someone while their hands are tied",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a seductive lap dance to someone blindfolded",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with a random person at a party",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Have a make-out session in a public restroom",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a sensual strip tease while another player tips you",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual massage to another player using your mouth",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone in a crowded area",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Do a body shot off another player's chest",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Play 'Truth or Dare' with a twist (all dares must be daring and sensual)",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual back massage to another player",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone while underwater (e",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a seductive dance with another player using a chair",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Make out with someone while blindfolded and tied to a chair",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a seductive lap dance to someone blindfolded and tied to a chair",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone on a Ferris wheel or amusement park ride",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Have a make-out session in a dark movie theater",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a sensual strip tease while blindfolded",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual massage to another player using only your lips",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone in an elevator while others are present",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Play 'Spin the Bottle' with a twist (kisses on various body parts)",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual foot massage to another player using your mouth",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone while lying on a beach or in a park",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a seductive dance with another player using a pole or railing",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Make out with someone in a public park or garden",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual lap dance to someone while they're blindfolded and tied up",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone in a crowded nightclub",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Have a make-out session in a hot tub or jacuzzi",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a sensual strip tease while blindfolded and tied up",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual massage to another player using ice cubes",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone while on a roller coaster or thrill ride",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Play 'Truth or Dare' in a public place with escalating dares",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a seductive lap dance to someone in front of a crowd",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone while skinny dipping",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a sensual dance with another player using a fire prop (e",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Make out with someone on a rooftop or balcony",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual massage to another player using edible body paint",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone in a crowded city square or landmark",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Have a make-out session in a dressing room or clothing store",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a seductive strip tease while blindfolded and tied to a bed",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual foot massage to another player using edible body paint",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone while riding a ferris wheel or giant swing",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Play 'Truth or Dare' in a crowded bar or club with increasingly daring dares",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a seductive lap dance to someone in front of a live audience (e",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone on a crowded dance floor",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a sensual dance with another player using fire poi or fire fans",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Make out with someone in a public restroom at a fancy event",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual massage to another player using scented massage oil",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone in a crowded shopping mall or department store",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Have a make-out session in a limousine or luxury car",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a seductive strip tease while blindfolded and tied to a chair in a public setting",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual foot massage to another player while blindfolded and tied to a chair",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone on a crowded beach or at a beach party",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Play 'Truth or Dare' with increasingly daring dares while in a busy park or picnic area",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a seductive lap dance to someone in front of a crowd at a music festival or concert",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone in a crowded tourist attraction or landmark",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a sensual dance with another player using glow sticks or LED props",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Make out with someone in a public elevator or in an elevator with glass walls",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Give a sensual massage to another player using scented candles and dim lighting",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Share a passionate kiss with someone in a busy restaurant or cafe",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Have a make-out session in a VIP area or exclusive lounge of a club",
+        "gender": "",
+        "label": 3
+    },
+    {
+        "text": "Perform a seductive strip tease while blindfolded and tied up in a public park or garden",
+        "gender": "",
+        "label": 3
+    },{
+      "text": "Go to the kitchen and make me the sexiest snack you can think of, Master Chef style. The catch? You only have three minutes, and you’re the plate.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "I’ll pick a song and you have to give me a lap dance. Blindfolded.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "You can’t say my name for the rest of the game, but instead, have to call me any nickname I choose. Every time you mess up, I get to spank you.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Act out your sexiest fantasy without using your words. Props, however, are highly encouraged.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Go skinny dipping with me. (If you don’t have a private pool, get creative! The bathtub, shower, or a water fight in the kitchen all count.)",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Trade clothes with me for the rest of the game. Once you put mine on, blast your fave hype song and show off your new look like a runway model.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Try to literally (li li li) lick yourself from your head to your toes. You only get three “help” spots where I can jump in, so use wisely.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Show me the last porn video you watched.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Watch me touch myself for five minutes. You’re not allowed to touch me or yourself while I do.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Kiss a part of my body you want to cum on.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Take my hand and put it on a party of your body you’d like me to pay more attention to. Guide my hand and show me how you want to be touched.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "You have one minute to turn me on using only your feet.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Show me a video (an ~adult~ one, duh) of something you’d like us to try together.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Put on a song you find really sexy and go down on me for the length of it.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Imitate what I sound like when I orgasm.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Blindfold me and write something sexy on my body in lipstick.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Go in the other room and sext me the dirtiest thing you can think of.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Show me how you touch yourself when I’m not around.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Take off your pants and give me your best twerk. Now try it upside down on the wall.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Host a sexy, five-minute yoga class for me with lots of sensual stretching and downward dogging.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Call me from the other room. When it goes to voicemail, leave me an explicit message outlining exactly what you want to do to me.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Demonstrate your best oral sex move on the nearest appropriate object.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Put on 'Pony' by Ginuwine, and vacuum seductively for the length of the song.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Turn out the lights and try to turn me on *only* using sounds. You have two minutes and if you fail, you owe me a sexual favor.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Give me a sensual foot massage. The hotter, the better.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Kiss your three favorite body parts of my body.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Put on a timer and act out as many sexual positions as you can with your clothes on.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Pick out three sex toys online you’d want to try with me. I get to pick my favorite one and you have to order it right now.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Take a selfie of your most outrageous 'O' face. Now put that as your lock screen, and keep it that way for the next 48 hours. If you change it before time’s up, you owe me dinner.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Give me a detailed, charismatic cooking demonstration of “How to Make Cereal.” The catch: You gotta do it nude.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Set the mood and reenact the most romantic, movie kiss you can think of with me. If you need some inspo, try Titanic, The Notebook, or even Spider-Man. Who knows, things might get so heated you find yourself reenacting some Bridgerton scenes next *wink wink.*",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Go find your old Halloween costume and put it on for me. Then, let's decide what to role-play.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Place whipped cream on your favorite parts of my body. Now, lick it off.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Eat a strawberry in the most sensual way possible.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Engage in foreplay with me for five minutes with one rule: You're allowed to kiss me anywhere but my mouth.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Give me a massage anywhere on my body for 10 minutes.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Do something to me right now that you've been fantasizing about.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Find something sweet to swipe across your lips and give me a passionate kiss.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Drag me to the closet for an adult round of seven minutes in heaven. You must keep the making out above the belt.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Stimulate two parts of my body at once. Use your hands on one part and lips on another.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Using your mouth, make your way from my wrist to my ear. Take your time!",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "In your most sultry voice, tell me what you loved about the last time we had sex.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Hop in the shower with me and wash my body, making sure not to miss any hard spots.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "You have ten seconds to excite me just by kissing. Hint: You're not limited to my lips.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Imitate my most flexible sex move.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Make out with me like we used to before we started having sex.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Pole dance with an imaginary pole for the length of an entire song of my choice.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Play me a song you’d like to have sex to.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Using your fingers, find a way to give me goosebumps right now.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Demonstrate a move on me that you saw and liked while watching porn.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Give me a sensual massage. Start at my feet and work your way up.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "For the next 60 seconds, touch yourself like you’d like to touch me.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Spell out a short, sultry message on my body…with your tongue.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Pretend I’m a stranger at a bar. Try to pick me up and convince me to come home with you.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "I’m going to go into the other room and dab perfume or cologne somewhere on my body. You have to sniff everywhere until you figure out where I put it on.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Pop an ice cube in your mouth and go down on me for 15 seconds.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Put my cell on vibrate, then place it somewhere on my body. Now, call me.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Pour a trail of sugar from the small of my back to my neck. Now, lick it up.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Take off my underwear…with your mouth.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Dip your fingertips in mouthwash and then rub my nipples, so I’ll get an erotic, tingly sensation the moment you touch me.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Pick a spot on my body that isn’t usually considered sexual—elbows, knees, ankles—and lavish it with kisses until I’m turned on.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Fuck me like it’s the first time.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Pick out some of my underclothes to model for me. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Put your mouth to my mouth and do anything BUT kiss. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Let’s get in the shower, and slowly, sensually wash my hair for me. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Let me blindfold you and wait patiently. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Show me the last adult film you watched – no cheating!",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Take a look in the pantry for any interesting spreads (peanut butter, honey, chocolate sauce) and lick it off me. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Model for an intimate my-eyes-only photoshoot. Pick out three props to use as well.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Give me a scalp massage, or braid my long hair. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Call a phone sex line and let me listen in. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Give me a kiss on your favorite body part of mine. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Write a short script for the sexy movie rewrite of our first date/first time meeting.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Dance a striptease to a song of my choosing. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Play as my servant – get my slippers or a snack from the kitchen and bow deeply when you give them to me. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Let me play with an ice cube in your belly button. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Feed me strawberries, a piece of cake, or another treat bite by bite. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Order some sensual massage oil online right now (think CBD for relaxation, edible oils, or cooling tingling oils). ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Raid our closets and put together a sexy outfit for me to wear. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Let me pleasure you while you make a phone call. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Sit right beside me and lean in like we will kiss. Instead, hold and wait. First one to go for the kiss loses. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Lick a non-obvious body part, and maybe even suck (fingers, toes…).",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Write a dating profile for me and find me a potential match. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Give me a deep tissue massage for thighs and glutes (warning! This might be quite painful as well as enjoyable, if muscles are tight). ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Show me some old intimate photos of yourself that I’ve never seen.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Let me tie you to the bed and tickle you. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Give me a long, slow passionate kiss in a public place. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Help me undress without using your hands ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Show me a toy you are curious about, but also a little nervous to try.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Send me a sexy home video from the bathroom at work. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Let me watch you touch yourself like no one is watching. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Call a close friend to talk about our latest adventure in bed and let me listen in.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Find an adult film with some moves you’d like to try and show it to me.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Seductively whisper in my ear the cheesiest, most awful pick up line you can think of.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Impress me with your physical strength. Do as many sit-ups, push-ups, or pulls-ups as you can. Naked. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Take me for a late night drive, while we are only partially dressed. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Prepare my favorite meal or snack, and be creative about serving it.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Make love to me with our curtains open. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Close your eyes and guess which body part I’m of mine about to press up against you.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Call an ex and tell them why I am a better partner. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Let me drip some melted wax down your back (be sure to use non-toxic candles!)",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Let me film us in bed. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Let me spank you.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Write an explicit letter for me to read later (maybe on the bus or at work?).",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "I’ll put 5 small hearts somewhere on my body (use stickers or a skin-safe pen). Find them all and give them each a kiss.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Let me wax, shave, or trim some of your body hair. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Take me to a lingerie boutique. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Do a pole dance performance.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Give me a sensual foot massage, making sure to give attention to the erogenous zone (according to reflexology, this is the center of the heel). ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Find a karaoke version of your favorite romantic song and perform it for me.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Take me to a tattoo shop and get a small tattoo in my honor. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Finish a household chore as my topless maid (or bottomless!). ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Count my teeth with your tongue. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Hide my favorite candy somewhere in your clothes or on your body and let me find it.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Do your sexiest barnyard animal impressions. Moo like a cow, quack like a duck, meow like a cat. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Close your eyes and open your mouth. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Pick me up and throw me over your shoulder! (Well, at least carry me to bed)",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Tickle my back with a feather, personal massager, or even your tongue.",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Undress (I will too) and look into my eyes without touching me at all for 1 minute (or as long as we can). ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Help me fulfill a role play fantasy. Maybe you are my teacher, nurse, or childhood celebrity crush. ",
+        "gender": "",
+        "label": 4
+    },
+
+    {
+        "text": "Give me a kiss and pass me some gum or hard candy as you do.",
+        "gender": "",
+        "label": 4
+    }
+  ]
+}
